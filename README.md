@@ -16,7 +16,6 @@ This project explores Nobel Prize winners with a focus on:
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 
 ## Dataset
 Kaggle – Nobel Prize Winners Dataset
